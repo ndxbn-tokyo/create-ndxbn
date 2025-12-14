@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "@ndxbn/tsconfig": "0.0.23",
-    "@types/mustache": "4.2.5",
+    "@types/mustache": "4.2.6",
     "@types/node": "24.10.3",
-    "typescript": "5.6.3"
+    "typescript": "5.9.3"
   },
   "keywords": [],
   "license": "MIT",
